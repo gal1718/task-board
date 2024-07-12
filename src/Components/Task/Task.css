@@ -1,0 +1,24 @@
+.Task {
+    background: #e0e0e0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .task-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .task-storypoints {
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .task-description {
+    font-size: 12px;
+    color: #888;
+  }
